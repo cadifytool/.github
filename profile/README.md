@@ -1,0 +1,39 @@
+## 안녕하세요, Cadify입니다 👋
+
+![Cadify](https://prod-files-secure.s3.us-west-2.amazonaws.com/c587600f-0943-400c-aebb-caeb4988f11c/cbf7f52c-07d8-42f0-8271-efa5ffce80cb/image.png)
+
+저희는 3D 모델링을 실제 부품으로 만들어주는 제조 플랫폼 Cadify를 개발하고 있습니다. 복잡한 금속 부품 주문 과정을 클릭 몇 번으로 단순하게 만드는 것이 목표입니다.
+
+### 🍿 혁신적인 플랫폼
+
+Cadify는 금속 부품 주문 및 제조 과정을 혁신적으로 변화시킬 것입니다. 저희가 준비하고 있는 것은 다음과 같습니다:
+
+- 복잡한 금속 부품 주문 과정을 단순화하는 플랫폼
+- 내년 상반기에 세 가지 서비스를 출시: 독특한 부품 쇼핑몰, 기업용 소프트웨어 등
+
+### 🦦 생태계에 기여
+
+저희는 오픈 소스 기술을 활용하고 커뮤니티에 기여하고 있습니다. 저희 기술 스택은 다음과 같습니다:
+
+- **프론트엔드:** React, TypeScript
+- **백엔드:** Java Spring Boot, PostgreSQL
+- **서버:** EC2, RDS
+
+### 👓 현재 진행 상황
+
+저희 팀은 4개월 전에 결성되었으며, 현재 프론트엔드와 백엔드 작업을 진행 중입니다. 목표는 다음과 같습니다:
+
+- 2025년 1월~2월: 예창패와 창중대 지원
+- 2025년 2월: MVP 완성 (Cadify & 쇼핑몰)
+
+### 🧙‍♂️ 합류하세요
+
+저희는 현재 유능한 개발자, 디자이너, 제품 관리자, 마케터, 전략가, AI 개발자, 영업 전문가를 모집하고 있습니다. 관심 있으신 분은 [Google Form](https://forms.gle/kggrNqfBvgpnoARS9)을 작성해주시거나 [KakaoTalk 오픈 채팅방](https://open.kakao.com/o/sCnpBkIg)으로 연락주세요.
+
+### 👓 추가 정보
+
+자세한 내용은 [공개 로드맵](https://github.com/github/roadmap)에서 확인하시고, 의견이 있으시면 알려주세요.
+
+---
+
+<sub>🤫 참고로, [organization README](https://docs.github.com/ko/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile)를 직접 만들 수도 있습니다.</sub>
