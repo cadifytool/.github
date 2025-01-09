@@ -1,6 +1,6 @@
 ## 안녕하세요, Cadify입니다 👋
 
-![Cadify](https://prod-files-secure.s3.us-west-2.amazonaws.com/c587600f-0943-400c-aebb-caeb4988f11c/cbf7f52c-07d8-42f0-8271-efa5ffce80cb/image.png)
+![Group 88](https://github.com/user-attachments/assets/003cc2d9-6570-4ba6-9f81-31d33bdfea4c)
 
 저희는 3D 모델링을 실제 부품으로 만들어주는 제조 플랫폼 Cadify를 개발하고 있습니다. 복잡한 금속 부품 주문 과정을 클릭 몇 번으로 단순하게 만드는 것이 목표입니다.
 
